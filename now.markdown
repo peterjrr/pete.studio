@@ -5,11 +5,11 @@ date: 2022-01-09 21:01:00 Z
 
 ## What am I doing now?
 
-Being the most present dad that I can be to Maya (4) and Tom (almost 2).
-
 Building tools for design systems at [Interplay](http://interplayapp.com).
 
 A founding fellow of the [On Deck Design](https://www.beondeck.com/design) fellowship.
+
+Being the most present dad that I can be to Maya (4) and Tom (almost 2).
 
 Planning our second renovation. This time on a 1980s bungalow we just bought before Christmas in a small village in Co. Armagh, Northern Ireland. Here's our [first renovation](https://www.instagram.com/guinearow/).
 
