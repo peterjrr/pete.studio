@@ -1,6 +1,7 @@
 ---
 title: Now
 date: 2022-01-09 21:01:00 Z
+layout: default
 ---
 
 ## What am I doing now?
