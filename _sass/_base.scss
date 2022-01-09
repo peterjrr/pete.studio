@@ -193,7 +193,8 @@ nav {
 
 nav li {
   list-style: none;
-  display: inline;
+  display: inline-flex;
+  gap: 16px;
 }
 
 a.site-title:hover {
@@ -222,6 +223,9 @@ a.site-title:hover {
       border-bottom: none;
       color: $primary-color;
     }
+  }
+  h2 {
+    margin-bottom: 0;
   }
 }
 
