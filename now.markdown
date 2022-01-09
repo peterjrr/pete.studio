@@ -21,5 +21,4 @@ My current obsession (escape?) is mechanical keyboards. I'm currently using an O
 
 I'm also trying to pour acceptable latte art after 9 years since I worked behind the bar at [3fe](http://3fe.com).
 
-
-This page is inspired by [Derek Sivers](https://sive.rs)' [Now page](https://nownownow.com).
+This page is inspired by [Derek Sivers](https://sive.rs)' [Now page](https://nownownow.com) which [David Hoang](http://davidhoang.com) shared in his [wonderful newsletter](https://davidhoang.substack.com).
