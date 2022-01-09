@@ -3,7 +3,7 @@ title: Now
 date: 2022-01-09 21:01:00 Z
 ---
 
-# What am I doing now?
+## What am I doing now?
 
 Being the most present dad that I can be to Maya (4) and Tom (almost 2).
 
