@@ -5,8 +5,6 @@ date: 2022-01-09 21:01:00 Z
 
 # What am I doing now?
 
-&nbsp;
-
 Being the most present dad that I can be to Maya (4) and Tom (almost 2).
 
 Building tools for design systems at [Interplay](http://interplayapp.com).
