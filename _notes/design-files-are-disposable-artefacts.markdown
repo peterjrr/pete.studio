@@ -4,7 +4,7 @@ date: 2021-04-19 16:42:00 Z
 layout: post
 ---
 
-I’ll be the first to admit that my design files are a bit of a mess. I’m a design team of one and my files are full of unnamed layers, wonky spacing, copies of copies of frames and explorations that got abandoned midway through a flow. But here’s the thing. That might actually be ok. 
+I’ll be the first to admit that my design files are a bit of a mess. I’m a design team of one and my files are full of unnamed layers, wonky spacing, copies of copies of frames and explorations that got abandoned midway through a flow. But here’s the thing. That might actually be ok
 
 Before the web, most visual designers were graphic designers. They designed for print and the physical space. It is a predictable medium with fixed size formats and content that does not change. When a designer outlined a file ready for the print, that _exact_ design would be replicated in print. 
 
